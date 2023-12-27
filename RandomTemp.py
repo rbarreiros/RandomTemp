@@ -1,3 +1,11 @@
+#
+# Cura Random temperature post processing script
+# Author:   Rui Barreiros
+# Date:     27/12/2023
+#
+# Description: Ultimaker Cura post processing plugin to randomize temperature each layer
+# 
+
 from ..Script import Script
 from UM.Application import Application
 from UM.Logger import Logger
